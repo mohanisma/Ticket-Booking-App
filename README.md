@@ -1,4 +1,7 @@
 # Ticket Booking app
+# Name:  Mohamed Ismail Mohamud
+# Id:    c119888
+# Class: Ca192
 
 A new Flutter project.
 
